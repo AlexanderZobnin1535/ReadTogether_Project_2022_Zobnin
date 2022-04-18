@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>219990829947-jeq5mijt67dbv55ks2khfno3afjqpd8t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.219990829947-jeq5mijt67dbv55ks2khfno3afjqpd8t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMGrtf7QVV9VMsKx75zINme3YNnT13FeA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>219990829947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>AlexanderZobnin.ReadTogether</string>
+	<key>PROJECT_ID</key>
+	<string>readtogether-alexanderzobnin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>readtogether-alexanderzobnin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:219990829947:ios:77a1b4dff2297b5389abde</string>
+</dict>
+</plist>
